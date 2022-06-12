@@ -1,0 +1,22 @@
+{
+  "name": "hexlet-my-first-workflow",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000h\u0000e\u0000x\u0000l\u0000e\u0000t\u0000-\u0000m\u0000y\u0000-\u0000f\u0000i\u0000r\u0000s\u0000t\u0000-\u0000w\u0000o\u0000r\u0000k\u0000f\u0000l\u0000o\u0000w\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibanb/hexlet-my-first-workflow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibanb/hexlet-my-first-workflow/issues"
+  },
+  "homepage": "https://github.com/ibanb/hexlet-my-first-workflow#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
